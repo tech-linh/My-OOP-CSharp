@@ -1,4 +1,4 @@
-//Create a class called "Person" with properties such as "name", "age", and "gender" and a method that prints out the person's information.
+//2. Create a class called "Person" with properties such as "name", "age", and "gender" and a method that prints out the person's information.
 
 using System;
 
